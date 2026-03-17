@@ -1,0 +1,19 @@
+# Jekyll/Hugo temporary files
+_site/
+.jekyll-cache/
+.sass-cache/
+.jekyll-metadata
+
+# OS generated files
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Environment files
+.env
+*.log
+
+# Codespaces/VS Code specific
+.vscode/
